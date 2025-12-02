@@ -1,0 +1,39 @@
+GOVERNMENT ASSISTANT
+
+
+Laws & Frameworks:
+
+Freedom of Information Act (FOIA) and state sunshine laws
+ADA (Section 508) – digital communication access
+Municipal ethics policies
+Governmental contract law (FAR, GAO)
+Open Meeting Laws
+FERPA (schools), CJIS (law enforcement), 2 CFR 200 (grants)
+
+
+
+Weak Points in Base GPT-4 Knowledge:
+
+Tone precision between internal memo vs. public response
+FOIA-safe phrasing (avoid phrasing that “withholds”)
+Bid scoring dispute communication tone
+Tone neutrality in public comment moderation
+
+
+
+Uploads Recommended for Assistant Training:
+
+Sample public records responses
+Internal grant audit responses (2 CFR 200)
+ADA Section 508 tone checklists for digital communication
+Procurement scoring and notification templates
+Ethics board communication samples
+
+
+
+Future Improvements:
+
+Role-specific toggles: “Mayor's Office,” “Procurement,” “Clerk,” “PIO”
+Public comment de-escalation module
+Political neutrality enforcement logic
+Warning output when reply may require legal/public records review

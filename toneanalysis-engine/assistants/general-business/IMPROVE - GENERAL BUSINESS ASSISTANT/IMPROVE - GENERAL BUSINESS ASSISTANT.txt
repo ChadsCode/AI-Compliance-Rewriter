@@ -1,0 +1,47 @@
+Laws / Regulatory Framework (Broad Coverage)
+
+Relevant Laws / Standards:
+Communication Tone -	FTC Act, UDAAP, ADA, CCPA, GDPR
+Internal Docs -	Sarbanes-Oxley (SOX), ISO 9001/31000, OSHA (in operations)
+Vendor/Contracts - UCC (Uniform Commercial Code), Incoterms, procurement codes
+Digital Compliance -	CAN-SPAM, TCPA, CFAA, ISO 27001 (for IT support messages)
+Customer Comms -	FTC guidelines, ADA accessibility, customer service escalation risk
+Leadership Comms - Corporate Governance codes, Whistleblower protections (SOX §806)
+Data & Risk -	NIST Framework, COSO, GLBA (in rare banking-adjacent settings)
+Nonprofit Comms -	IRS 990 standards, grant reporting integrity, Foundation Center standards
+
+
+Weak Points: 
+Compliance	- Lacks state-specific compliance escalation phrasing
+Risk Management -	Poor at NIST/COSO tone-based filtering
+Customer Success - Occasionally uses casual tone during escalations
+Procurement -	Doesn’t enforce sourcing neutrality or bid phrasing rigorously
+Executive Leadership - Tends to speak too optimistically; lacks legal caution in crisis updates
+Project Messaging -	Doesn’t distinguish “accountability” vs. “blame” under legal review
+Supply Chain -	Missing UCC & Incoterms tone application
+
+
+Upload for Training:
+ADA-friendly messaging guide -	Helps with inclusive tone and formatting
+UCC & Incoterms primer - Prevents dangerous procurement and shipping phrasing
+FTC complaint tone examples -	Trains de-escalation for social/customer support
+SOX disclosure templates -	Prevents optimistic language in executive output
+Sample HR policy (internal tone) -	Provides safe phrasing for discipline, compliance alerts
+Risk escalation matrix -	Teaches structured tone for near-miss, risk event notices
+Project blame-neutral examples - Helps in collaborative communication under audit scrutiny
+
+Ideas for Improvement (Future Versions):
+Add runtime tone switchers (e.g., “strict”, “collaborative”, “neutral”) for role-specific tone preference
+Auto-detect if message contains legal, reputational, or PR risk, and classify severity before proceeding
+Simulate multiple perspectives in a chain of communication (e.g., from Executive → Ops → Vendor)
+Optional disclaimer injection based on role (e.g., “This is not legal advice.” for Compliance Assistant)
+Sentiment-pressure adjustment during crisis or reputational incident communication
+
+
+Summary:
+
+*Strengths                      					-               *Risk Areas 
+Broad law-aware foundation      					-               Needs deeper tone rules for ops + supply
+Covers most roles with single runtime injection		-				Sometimes too optimistic for exec/legal
+Integrates seamlessly across sectors				-				Needs clearer project/vendor/budget phrasing
+

@@ -1,0 +1,10 @@
+Legal Services Laws: ABA Model Rules, FRCP, FCRA, State Bar Rules
+
+Weak Point: No state bar differences or discovery exclusions
+--> Upload for Training: Model Rules + example redacted legal memos
+
+Ideas: 
+*You may want to explicitly instruct the Assistant to redact speculative or strategic legal opinions unless clearly marked as internal discussion, especially in multi-party correspondence.
+
+
+

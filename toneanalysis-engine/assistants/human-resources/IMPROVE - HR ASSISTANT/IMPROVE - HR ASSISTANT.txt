@@ -1,0 +1,12 @@
+Human Resources Laws: EEOC, Title VII, ADA, FMLA, NLRA, GDPR/CCPA
+
+
+Weak Points: Missing state-specific retaliation and ADA interactions
+--> Upload as Training: ADA, FMLA policies, HR case examples with legal-safe tone
+
+Ideas for Improvement: 
+*Consider emphasizing that the Assistant should never write anything that could be construed as retaliatory or judgmental, even subtly, especially in terminations or investigations.
+
+
+
+

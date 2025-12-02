@@ -1,0 +1,8 @@
+Healthcare Laws: HIPAA, HITECH, CMS, Joint Commission, state privacy
+
+Weak Point: State medical board privacy laws, OCR breach summaries
+--> Upload for Training: State medical board privacy laws, OCR breach summaries
+
+
+
+

@@ -1,0 +1,8 @@
+Financial Services Laws: GLBA, SEC 17a-4, FINRA, SOX, CFPB, AML, Dodd-Frank
+
+Weak Point: Lacks deep SEC letter language + fiduciary tone
+--> Upload for Training: SEC 17a-4 guidance, FINRA Rule 2210 examples
+
+Ideas for Improvement: 
+*Add a constraint to prevent the Assistant from inadvertently offering personal financial advice, projections, or interpretive language around investment performance.
+
