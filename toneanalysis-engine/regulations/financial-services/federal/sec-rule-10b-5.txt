@@ -1,0 +1,29 @@
+SEC RULE 10b-5: EMPLOYMENT OF MANIPULATIVE AND DECEPTIVE PRACTICES
+
+17 CFR § 240.10b-5 - Employment of manipulative and deceptive devices.
+
+It shall be unlawful for any person, directly or indirectly, by the use of any means or instrumentality of interstate commerce, or of the mails or of any facility of any national securities exchange,
+
+(a) To employ any device, scheme, or artifice to defraud,
+
+(b) To make any untrue statement of a material fact or to omit to state a material fact necessary in order to make the statements made, in the light of the circumstances under which they were made, not misleading, or
+
+(c) To engage in any act, practice, or course of business which operates or would operate as a fraud or deceit upon any person, in connection with the purchase or sale of any security.
+
+IMPLICATIONS FOR COMMUNICATIONS:
+1. Any communication related to securities transactions must not contain material misstatements or omissions.
+2. Financial advisors must avoid statements that could be considered misleading, even if technically accurate.
+3. Communications must not employ deceptive devices or schemes that could mislead investors.
+4. Statements about future performance must be clearly labeled as projections and include appropriate disclaimers.
+5. Disclaimers do not cure otherwise misleading statements.
+
+RELATED GUIDANCE:
+- Regulation FD (Fair Disclosure) requires public companies to disclose material information to all investors simultaneously.
+- Rule 10b5-1 provides a defense to insider trading allegations when transactions were planned before material non-public information was known.
+- Rule 10b5-2 defines when a duty of trust exists in misappropriation insider trading cases.
+
+COMPLIANCE REQUIREMENTS:
+- All marketing communications must be reviewed for potential Rule 10b-5 violations.
+- Financial advisors must document the basis for investment recommendations.
+- Records of communications with clients about securities must be maintained.
+- Investment performance data must not be presented in a manner that creates unrealistic expectations.

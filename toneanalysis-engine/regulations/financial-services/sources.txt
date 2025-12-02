@@ -1,0 +1,32 @@
+FINANCIAL SERVICES REGULATORY SOURCES
+
+Federal Regulations:
+1. Securities Exchange Act of 1934 (15 U.S.C. § 78a et seq.)
+   Last Updated: January 2023
+   URL: https://www.sec.gov/answers/about-lawsshtml.html
+
+2. FINRA Rule 2210: Communications with the Public
+   Last Updated: December 2022
+   URL: https://www.finra.org/rules-guidance/rulebooks/finra-rules/2210
+
+3. Regulation Best Interest (17 CFR § 240.15l-1)
+   Last Updated: June 2020
+   URL: https://www.sec.gov/regulation-best-interest
+
+4. Investment Advisers Act of 1940 (15 U.S.C. § 80b-1 et seq.)
+   Last Updated: October 2022
+   URL: https://www.sec.gov/about/laws/iaa40.pdf
+
+Legal Precedents:
+1. SEC v. W.J. Howey Co., 328 U.S. 293 (1946) - Definition of investment contracts
+   URL: https://supreme.justia.com/cases/federal/us/328/293/
+
+2. Lorenzo v. SEC, 587 U.S. ___ (2019) - Broadened scope of liability under Rule 10b-5
+   URL: https://www.supremecourt.gov/opinions/18pdf/17-1077_21o3.pdf
+
+State-Specific Resources:
+1. California - California Financial Information Privacy Act (SB 1)
+   URL: https://dfpi.ca.gov/california-financial-information-privacy-act/
+
+2. New York - Regulation 187: Suitability and Best Interests in Life Insurance
+   URL: https://www.dfs.ny.gov/industry_guidance/regulations/reg_187

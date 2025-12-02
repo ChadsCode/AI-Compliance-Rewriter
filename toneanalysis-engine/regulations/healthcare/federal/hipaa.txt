@@ -1,0 +1,16 @@
+HIPAA PRIVACY RULE SUMMARY
+
+The HIPAA Privacy Rule establishes national standards to protect individuals' medical records and other personal health information.
+
+Key provisions:
+- Right to access their health information
+- Right to request corrections
+- Right to receive notice of privacy practices
+- Right to request restrictions on certain uses and disclosures
+- Healthcare entities must implement appropriate safeguards
+
+Covered entities must:
+- Implement written privacy procedures
+- Train employees on privacy procedures
+- Designate a privacy officer
+- Secure patient records containing protected information

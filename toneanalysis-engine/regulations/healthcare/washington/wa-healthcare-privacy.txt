@@ -1,0 +1,45 @@
+WASHINGTON STATE HEALTHCARE PRIVACY LAWS
+
+WASHINGTON UNIFORM HEALTH CARE INFORMATION ACT (UHCIA) - RCW 70.02
+
+OVERVIEW:
+The Washington Uniform Health Care Information Act (UHCIA) provides standards for the disclosure of health care information and establishes patients' right to access their healthcare records. It complements and sometimes provides stronger protections than federal HIPAA regulations.
+
+KEY PROVISIONS:
+
+1. DISCLOSURE RESTRICTIONS (RCW 70.02.020)
+   - Health care providers shall not disclose health care information about a patient unless authorized by the patient or specifically authorized by law.
+   - Authorizations must be in writing, dated, and specify the information to be disclosed.
+
+2. PATIENT ACCESS RIGHTS (RCW 70.02.080)
+   - Patients have the right to examine or copy their healthcare information.
+   - Providers must respond to requests within 15 working days.
+   - Providers may deny access in limited circumstances, including when knowledge of the information would be injurious to the patient's health.
+
+3. PSYCHOTHERAPY NOTES (RCW 70.02.030)
+   - Special protections exist for psychotherapy notes, which require specific authorization for disclosure.
+
+4. MINORS' RIGHTS (RCW 70.02.130)
+   - Minors have authority to control disclosure of information relating to:
+     * Reproductive healthcare
+     * Sexually transmitted diseases (age 14 and older)
+     * Mental health treatment (age 13 and older)
+     * Substance abuse treatment (age 13 and older)
+
+5. HIV/AIDS INFORMATION (RCW 70.02.220)
+   - Disclosure of HIV test results requires specific written authorization.
+   - Unauthorized disclosure may result in civil liability.
+
+6. GENDER-AFFIRMING CARE PRIVACY PROTECTIONS (2023 UPDATE - RCW 70.02.240)
+   - Health care entities must not disclose information related to gender-affirming treatment to other states seeking to prosecute such care.
+   - Washington providers are protected from out-of-state subpoenas related to legally provided gender-affirming care.
+
+ENFORCEMENT:
+- The Washington Department of Health can impose fines for violations.
+- Patients may bring civil actions for damages for unauthorized disclosures.
+- Knowing violations can result in professional discipline.
+
+RELATIONSHIP TO FEDERAL LAW:
+- Washington's UHCIA applies alongside HIPAA.
+- Where Washington law is more protective of patient privacy, state law prevails.
+- Healthcare providers must comply with both state and federal regulations.

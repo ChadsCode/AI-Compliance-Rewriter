@@ -1,0 +1,29 @@
+HEALTHCARE INDUSTRY SOURCES:
+
+Federal Regulations:
+1. HIPAA (Health Insurance Portability and Accountability Act of 1996) - 45 CFR Parts 160, 162, and 164
+   Last Updated: January 2023
+   URL: https://www.hhs.gov/hipaa/for-professionals/index.html
+
+2. ACA (Affordable Care Act) - 42 U.S.C. § 18001 et seq.
+   Last Updated: March 2023
+   URL: https://www.healthcare.gov/where-can-i-read-the-affordable-care-act/
+
+3. EMTALA (Emergency Medical Treatment and Labor Act) - 42 U.S.C. § 1395dd
+   Last Updated: August 2022
+   URL: https://www.cms.gov/regulations-and-guidance/legislation/emtala
+
+4. 45 CFR § 164.512 - Uses and disclosures for which an authorization is not required
+   Last Updated: December 2022
+   URL: https://www.ecfr.gov/current/title-45/subtitle-A/subchapter-C/part-164/subpart-E/section-164.512
+
+Legal Precedents:
+1. Supremacy Clause (U.S. Constitution, Article VI, Clause 2)
+   URL: https://constitution.congress.gov/constitution/article-6/
+
+2. Dobbs v. Jackson Women's Health Organization, 597 U.S. ___ (2022)
+   Decision Date: June 24, 2022
+   URL: https://www.supremecourt.gov/opinions/21pdf/19-1392_6j37.pdf
+
+3. Singleton v. Wulff, 428 U.S. 106 (1976)
+   URL: https://supreme.justia.com/cases/federal/us/428/106/

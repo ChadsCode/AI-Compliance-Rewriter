@@ -1,0 +1,23 @@
+LEGAL PRECEDENCE GUIDANCE - HEALTHCARE REGULATIONS IN WASHINGTON STATE:
+
+1. GENERAL PRINCIPLE: 
+   Federal law generally supersedes conflicting state law under the U.S. Constitution's Supremacy Clause.
+
+2. HEALTHCARE REGULATIONS HIERARCHY:
+   a. Federal laws establish minimum standards that all states must follow (HIPAA, ACA, EMTALA, etc.)
+   b. Washington State laws can provide ADDITIONAL protections beyond federal minimums
+   c. Washington State laws that directly contradict federal mandates are typically preempted
+
+3. ABORTION REGULATION (POST-DOBBS):
+   a. Since Dobbs v. Jackson (2022), abortion regulation primarily falls to the states
+   b. Washington State protects abortion access through state law (RCW 9.02.100)
+   c. Washington's Reproductive Privacy Act supersedes most federal restrictions
+   d. Federal laws like EMTALA (requiring emergency stabilizing treatment) still apply
+   e. Washington State law permits abortion procedures that may be restricted in other states
+
+4. CONFLICT RESOLUTION APPROACH:
+   a. First, identify if explicit federal preemption exists in the relevant statute
+   b. Second, determine if state and federal laws directly conflict
+   c. If Washington provides stronger protections than federal law, apply Washington standards
+   d. If federal law establishes requirements not addressed by state law, apply federal standards
+   e. When both apply without conflict, follow both sets of regulations
