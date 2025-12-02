@@ -1,0 +1,46 @@
+#assistant-selector, #user-input, #role, button, #state-selector {
+  padding: 10px;
+  margin: 10px 0;
+  font-size: 16px;
+  width: 100%;
+}
+
+.location-selectors {
+  display: flex;
+  gap: 10px;
+}
+
+#state-selector {
+  flex: 1;
+}
+
+#output {
+  margin-top: 20px;
+  white-space: pre-wrap;
+  background-color: #f5f5f5;
+  padding: 15px;
+  border-radius: 5px;
+}
+
+/* Add processing animation for visual feedback */
+#output.processing::after {
+  content: "";
+  display: inline-block;
+  width: 8px;
+  height: 8px;
+  margin-left: 5px;
+  border-radius: 50%;
+  background-color: #333;
+  animation: blink 1s infinite;
+}
+
+@keyframes blink {
+  0% { opacity: 0; }
+  50% { opacity: 1; }
+  100% { opacity: 0; }
+}
+
+button:disabled {
+  opacity: 0.5;
+  cursor: not-allowed;
+}
